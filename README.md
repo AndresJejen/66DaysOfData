@@ -7,7 +7,9 @@ In this repo I will publish my progress in the challenge.
 ## Progress
  - **Day 1** 02-january-2020   
   Why are low quality diamonds more expensive?   
-  Based on "R for Data Science Book", my translation to python code and personal comments.
+  Based on "R for Data Science Book", my translation to python code and personal comments.   
+  Source: www.kaggle.com/andresjejen/models-for-data-analysis
+  
 
 ## Twitter Account
 https://twitter.com/andres_jejen
